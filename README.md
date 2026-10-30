@@ -56,7 +56,7 @@ To check support, go to **Tools > Site Health > Info > Media Handling**.
 ## Installation
 
 1. Download the `avif-webp-on-upload.php` file from this repository.
-2. Upload it to `wp-content/plugins/avif-webp/` (or to `wp-content/mu-plugins/`).
+2. Upload it to `wp-content/plugins/avif-webp-on-upload/` (or to `wp-content/mu-plugins/`).
 3. Activate it under **Plugins** in the WordPress admin.
 
 ---
