@@ -55,8 +55,8 @@ Para conferir o suporte, vá em **Ferramentas > Saúde do site > Informações >
 
 ## Instalação
 
-1. Baixe o arquivo `avif-webp.php` deste repositório.
-2. Envie para `wp-content/plugins/avif-webp/` (ou para `wp-content/mu-plugins/`).
+1. Baixe o arquivo `avif-webp-on-upload.php` deste repositório.
+2. Envie para `wp-content/plugins/avif-webp-on-upload/` (ou para `wp-content/mu-plugins/`).
 3. Ative em **Plugins** no painel do WordPress.
 
 ---
